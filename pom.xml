@@ -10,7 +10,7 @@
     <!--<packaging>war</packaging>-->
 
     <properties>
-        <spring.version>4.0.4.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven-source-plugin.version>3.0.1</maven-source-plugin.version>
